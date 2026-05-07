@@ -62,10 +62,10 @@ stl_files/
 ## Design Preview
 
 ### Drone Design
-![Drone Design](stl_files/drone_design/drone_design.png)
+![Drone Design](stl_files/drone_design/drone-design.png)
 
 ### Gripper Design
-![Gripper Design](stl_files/Gripper_design/gripper_design.png)
+![Gripper Design](stl_files/Gripper_design/Gripper_design.png)
 
 ---
 
