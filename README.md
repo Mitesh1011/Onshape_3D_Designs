@@ -43,6 +43,7 @@ Recommended settings:
 ```text
 stl_files/
 ├── Drone_design.stl
+Gripper_design
 ├── Unibot Gripper.stl
 ├── Unibot gripper box.stl
 └── Unibot side plate.stl
