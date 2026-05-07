@@ -44,8 +44,7 @@ These STL files can be manufactured using standard 3D printers.
 ## Project File Structure
 
 ```text
-stl_files/
-│
+
 ├── drone_design/
 │   ├── Drone_design.stl
 │   └── drone_design.png
