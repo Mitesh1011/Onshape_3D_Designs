@@ -1,6 +1,6 @@
 ## 3D Design Files
 
-This project includes custom 3D-designed STL files developed for the autonomous robotics system and competition robot assembly, and also Drone design.
+This project includes custom 3D-designed STL files developed for the autonomous robotics system, competition robot assembly, and drone design.
 
 ### Included STL Designs
 
@@ -14,7 +14,9 @@ This project includes custom 3D-designed STL files developed for the autonomous 
 ---
 
 ## Design Purpose
+
 The STL components were designed to:
+
 - Improve robot stability
 - Support autonomous object collection
 - Mount sensors and mechanical components
@@ -24,36 +26,55 @@ The STL components were designed to:
 ---
 
 ## 3D Printing
+
 These STL files can be manufactured using standard 3D printers.
 
-Recommended materials:
+### Recommended Materials
 - PLA
 - PETG
 - ABS
 
-Recommended settings:
+### Recommended Print Settings
 - Layer Height: 0.2 mm
 - Infill: 20–40%
 - Supports: Enabled where necessary
 
 ---
 
-## STL File Location
+## Project File Structure
 
 ```text
 stl_files/
-├── Drone_design.stl
-Gripper_design
-├── Unibot Gripper.stl
-├── Unibot gripper box.stl
-└── Unibot side plate.stl
+│
+├── drone_design/
+│   ├── Drone_design.stl
+│   └── drone_design.png
+│
+├── Gripper_design/
+│   ├── Unibot Gripper.stl
+│   ├── Unibot gripper box.stl
+│   ├── Unibot side plate.stl
+│   └── gripper_design.png
 ```
 
 ---
 
+## Design Preview
+
+### Drone Design
+![Drone Design](stl_files/drone_design/drone_design.png)
+
+### Gripper Design
+![Gripper Design](stl_files/Gripper_design/gripper_design.png)
+
+---
+
 ## CAD and Mechanical Design
+
 The mechanical components were designed for robotics applications including:
+
 - Autonomous navigation
 - Object handling
 - Structural mounting
 - Competition robot integration
+- Lightweight and modular robotic assembly
